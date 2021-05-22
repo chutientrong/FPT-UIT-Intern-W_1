@@ -1,0 +1,278 @@
+make.exe all -f "f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make" --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make: No such file or directory
+make: *** No rule to make target 'f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make'.  Stop.
+ 
+# GNU Make 4.3
+# Built for x86_64-pc-cygwin
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Sat May 22 21:28:05 2021
+
+# Variables
+
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\TRONG-UIT
+# environment
+LOCALAPPDATA = C:\Users\TRONG-UIT\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-5d488734-d466-4926-ba50-3ebc18d31ce8-sock
+# environment
+VSCODE_CWD = C:\Users\TRONG-UIT\AppData\Local\Programs\Microsoft VS Code
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14608_OUNMHCGEYXWIFNHG
+# environment
+ONEDRIVECOMMERCIAL = C:\Users\TRONG-UIT\OneDrive - Trường ĐH CNTT - University of Information Technology
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = /cygdrive/c/Users/TRONG-~1/AppData/Local/Temp
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# makefile
+MAKEFLAGS = prR
+# environment
+ONEDRIVE = C:\Users\TRONG-UIT\OneDrive - Trường ĐH CNTT - University of Information Technology
+# makefile
+CURDIR := /cygdrive/f/Thuctap/FPT-UIT-Week1/FPT-UIT-Week1
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -prR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile
+MAKEFILE_LIST := 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 14608
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ANDROID_SDK_ROOT = F:\Android\android-sdk
+# environment
+ONEDRIVECONSUMER = C:\Users\TRONG-UIT\OneDrive
+# default
+MAKE_HOST := x86_64-pc-cygwin
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := /bin/sh
+# environment
+HOMEPATH = \Users\TRONG-UIT
+# environment
+PLATFORMIO_CALLER = vscode
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /cygdrive/c/Program Files/Common Files/Oracle/Java/javapath:/cygdrive/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/Program Files/Git/cmd:/cygdrive/e/IT/INSTALL sw/Python/Python3:/cygdrive/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/cygdrive/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/cygdrive/c/Program Files (x86)/Brackets/command:/cygdrive/c/Program Files/MATLAB/R2017b/runtime/win64:/cygdrive/c/Program Files/MATLAB/R2017b/bin:/cygdrive/c/Program Files/dotnet:/cygdrive/c/Program Files/PuTTY:/cygdrive/c/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin:/cygdrive/e/IT/INSTALL sw/Python/Python3:/cygdrive/c/Users/TRONG-UIT/AppData/Local/Microsoft/WindowsApps:/cygdrive/e/IT/INSTALL sw/Sublime Text 3:/cygdrive/c/Users/TRONG-UIT/AppData/Local/GitHubDesktop/bin:/cygdrive/c/Users/TRONG-UIT/AppData/Local/Programs/Microsoft VS Code/bin:/cygdrive/c/Program Files/Java/jdk-16/bin:/cygdrive/f/Android/flutter/bin:/cygdrive/f/Android/android-sdk:/cygdrive/f/Program/AndroidStudio/bin:/cygdrive/f/Program/AndroidStudio/jre/bin:/cygdrive/f/Program/AndroidStudio/jre:/usr/bin:/cygdrive/c/MinGW/bin:/cygdrive/c/Program Files (x86)/GnuWin32/bin
+# environment
+COMPUTERNAME = DESKTOP-798D2VP
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+LOGONSERVER = \\DESKTOP-798D2VP
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = TRONG-UIT
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+NO_PROXY = 127.0.0.1
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = DESKTOP-798D2VP
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+PLATFORMIO_PATH = C:\Users\TRONG-UIT\.platformio\python3;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;E:\IT\INSTALL sw\Python\Python3;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Brackets\command;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2020-q4-major\bin;E:\IT\INSTALL sw\Python\Python3\;C:\Users\TRONG-UIT\AppData\Local\Microsoft\WindowsApps;E:\IT\INSTALL sw\Sublime Text 3;C:\Users\TRONG-UIT\AppData\Local\GitHubDesktop\bin;C:\Users\TRONG-UIT\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-16\bin;F:\Android\flutter\bin;F:\Android\android-sdk;F:\Program\AndroidStudio\bin;F:\Program\AndroidStudio\jre\bin;F:\Program\AndroidStudio\jre;C:\cygwin64\bin;C:\MinGW\bin;C:\Program Files (x86)\GnuWin32\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;E:\IT\INSTALL sw\Python\Python3;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Brackets\command;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2020-q4-major\bin;E:\IT\INSTALL sw\Python\Python3\;C:\Users\TRONG-UIT\AppData\Local\Microsoft\WindowsApps;E:\IT\INSTALL sw\Sublime Text 3;C:\Users\TRONG-UIT\AppData\Local\GitHubDesktop\bin;C:\Users\TRONG-UIT\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-16\bin;F:\Android\flutter\bin;F:\Android\android-sdk;F:\Program\AndroidStudio\bin;F:\Program\AndroidStudio\jre\bin;F:\Program\AndroidStudio\jre;C:\cygwin64\bin;C:\MinGW\bin;C:\Program Files (x86)\GnuWin32\bin;
+# makefile
+.DEFAULT_GOAL := 
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-798D2VP
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+PUBLIC = C:\Users\Public
+# environment
+QUARTUS_ROOTDIR = C:\altera\13.0sp1\quartus
+# environment
+!F: = f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1
+# environment
+SOPC_KIT_NIOS2 = C:\altera\13.0sp1\nios2eds
+# environment
+VSCODE_NODE_CACHED_DATA_DIR = C:\Users\TRONG-UIT\AppData\Roaming\Code\CachedData\054a9295330880ed74ceaedda236253b4f39a335
+# environment
+MOZ_PLUGIN_PATH = C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\
+# environment
+APPDATA = C:\Users\TRONG-UIT\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+PLATFORMIO_IDE = 2.3.2
+# environment
+HOME = /home/TRONG-UIT
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /cygdrive/c/Users/TRONG-~1/AppData/Local/Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\abdda1e9575dfbdaf567a59709e0e0e5-1.56.2-main-sock
+# environment
+TERM = xterm-256color
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# environment
+PROCESSOR_REVISION = 4e03
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+# variable set hash-table stats:
+# Load=104/1024=10%, Rehash=0, Collisions=12/125=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+
+# No files, no impossibilities in 0 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=4/1024=0%, Rehash=0, Collisions=0/14=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 5 / storage = 80 B / avg = 16 B
+# current buf: size = 8162 B / used = 80 B / count = 5 / avg = 16 B
+
+# strcache performance: lookups = 8 / hit rate = 37%
+# hash-table stats:
+# Load=5/8192=0%, Rehash=0, Collisions=0/8=0%
+# Finished Make data base on Sat May 22 21:28:05 2021
+
+ 

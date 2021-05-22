@@ -1,0 +1,9 @@
+make.exe -f "f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make" --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/f/Thuctap/FPT-UIT-Week1/FPT-UIT-Week1'
+make: Leaving directory '/cygdrive/f/Thuctap/FPT-UIT-Week1/FPT-UIT-Week1'
+ 
+make: f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make: No such file or directory
+make: *** No rule to make target 'f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make'.
+make: Failed to remake makefile 'f:\Thuctap\FPT-UIT-Week1\FPT-UIT-Week1\make'.
+make: *** No targets specified and no makefile found.  Stop.
+ 
